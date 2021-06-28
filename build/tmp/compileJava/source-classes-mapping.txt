@@ -1,0 +1,228 @@
+adapter/practica/practica/Empresa1Android.java
+ adapter.practica.practica.Empresa1Android
+visitor/practica/ejercicio2/Italia.java
+ visitor.practica.ejercicio2.Italia
+adapter/practica/practica/AdapterWeb.java
+ adapter.practica.practica.AdapterWeb
+bridge/practica/ejercicio/IArquitectura.java
+ bridge.practica.ejercicio.IArquitectura
+adapter/practica/practica/Web.java
+ adapter.practica.practica.Web
+visitor/practica/ejercicio2/Bolivia.java
+ visitor.practica.ejercicio2.Bolivia
+decorator/Practica/practica/Client.java
+ decorator.Practica.practica.Client
+bridge/practica/ejercicio2/EnviarTierra.java
+ bridge.practica.ejercicio2.EnviarTierra
+bridge/practica/ejercicioNoBridge/Windows.java
+ bridge.practica.ejercicioNoBridge.Windows
+proxy/practica/ejercicio/Client.java
+ proxy.practica.ejercicio.Client
+bridge/practica/ejercicio2/IMetodo.java
+ bridge.practica.ejercicio2.IMetodo
+visitor/practica/ejercicio/Client.java
+ visitor.practica.ejercicio.Client
+bridge/practica/ejercicio/Arquitecturax86.java
+ bridge.practica.ejercicio.Arquitecturax86
+extra/Laptop.java
+ extra.Laptop
+adapter/practica/practica/AdapterEscritorio.java
+ adapter.practica.practica.AdapterEscritorio
+decorator/Practica/practica/PersonajeBasico.java
+ decorator.Practica.practica.PersonajeBasico
+visitor/practica/practica/AppCheckHealth.java
+ visitor.practica.practica.AppCheckHealth
+adapter/practica/practica/Escritorio.java
+ adapter.practica.practica.Escritorio
+extra/ServicioReparacion.java
+ extra.ServicioReparacion
+bridge/practica/ejercicioNoBridge/Client.java
+ bridge.practica.ejercicioNoBridge.Client
+decorator/Practica/ejercicio/PromocionCuenta.java
+ decorator.Practica.ejercicio.PromocionCuenta
+visitor/practica/ejercicio/IEditor.java
+ visitor.practica.ejercicio.IEditor
+adapter/practica/practica/Empresa1IOS.java
+ adapter.practica.practica.Empresa1IOS
+visitor/practica/ejercicio2/ILibrecambista.java
+ visitor.practica.ejercicio2.ILibrecambista
+extra/Client.java
+ extra.Client
+extra/IServicioTecnico.java
+ extra.IServicioTecnico
+visitor/practica/ejercicio2/LibrecambistaCompra.java
+ visitor.practica.ejercicio2.LibrecambistaCompra
+adapter/practica/ejeercicio/AdapterRefrigeradores.java
+ adapter.practica.ejeercicio.AdapterRefrigeradores
+bridge/practica/ejercicioNoBridge/Linux.java
+ bridge.practica.ejercicioNoBridge.Linux
+proxy/practica/practica/ICluster.java
+ proxy.practica.practica.ICluster
+visitor/practica/ejercicio2/Client.java
+ visitor.practica.ejercicio2.Client
+visitor/practica/practica/IAppHealth.java
+ visitor.practica.practica.IAppHealth
+proxy/practica/practica/Proxy.java
+ proxy.practica.practica.Proxy
+proxy/practica/practica/Client.java
+ proxy.practica.practica.Client
+bridge/practica/ejercicio/Windows.java
+ bridge.practica.ejercicio.Windows
+decorator/Practica/practica/PesonajeConCuracion.java
+ decorator.Practica.practica.PesonajeConCuracion
+adapter/practica/practica/Client.java
+ adapter.practica.practica.Client
+visitor/practica/ejercicio/Word.java
+ visitor.practica.ejercicio.Word
+bridge/practica/ejercicio/Arquitecturax64.java
+ bridge.practica.ejercicio.Arquitecturax64
+decorator/Practica/practica/PersonajeConEscudo.java
+ decorator.Practica.practica.PersonajeConEscudo
+adapter/practica/ejeercicio/Televisores.java
+ adapter.practica.ejeercicio.Televisores
+adapter/practica/ejeercicio/AdapterTelevisores.java
+ adapter.practica.ejeercicio.AdapterTelevisores
+visitor/practica/ejercicio2/Brasil.java
+ visitor.practica.ejercicio2.Brasil
+decorator/Practica/ejercicio/Decorator.java
+ decorator.Practica.ejercicio.Decorator
+visitor/practica/ejercicio/Plugin1.java
+ visitor.practica.ejercicio.Plugin1
+extra/Tablet.java
+ extra.Tablet
+adapter/practica/ejeercicio/Client.java
+ adapter.practica.ejeercicio.Client
+bridge/practica/ejercicio2/IEmpresas.java
+ bridge.practica.ejercicio2.IEmpresas
+visitor/practica/practica/Computadora.java
+ visitor.practica.practica.Computadora
+visitor/practica/practica/Celular.java
+ visitor.practica.practica.Celular
+adapter/practica/ejeercicio/IEmpresaArtefactos1.java
+ adapter.practica.ejeercicio.IEmpresaArtefactos1
+visitor/practica/practica/IArtefactosElectronicos.java
+ visitor.practica.practica.IArtefactosElectronicos
+adapter/practica/ejeercicio/Refrigeradores.java
+ adapter.practica.ejeercicio.Refrigeradores
+bridge/practica/ejercicio/IPlataforma.java
+ bridge.practica.ejercicio.IPlataforma
+visitor/practica/practica/Client.java
+ visitor.practica.practica.Client
+visitor/practica/practica/Televisor.java
+ visitor.practica.practica.Televisor
+bridge/practica/practica/EmpInstalacionAgua.java
+ bridge.practica.practica.EmpInstalacionAgua
+adapter/practica/ejeercicio/Lavadoras.java
+ adapter.practica.ejeercicio.Lavadoras
+adapter/practica/ejeercicio/Empresa1Computadoras.java
+ adapter.practica.ejeercicio.Empresa1Computadoras
+bridge/practica/ejercicio2/EmpresaSRL.java
+ bridge.practica.ejercicio2.EmpresaSRL
+bridge/practica/practica/PagoTransferenciaBancaria.java
+ bridge.practica.practica.PagoTransferenciaBancaria
+decorator/Practica/practica/Juego.java
+ decorator.Practica.practica.Juego
+visitor/practica/ejercicio2/LibrecambistaVenta.java
+ visitor.practica.ejercicio2.LibrecambistaVenta
+visitor/practica/ejercicio/Sublime.java
+ visitor.practica.ejercicio.Sublime
+adapter/practica/ejeercicio/Empresa1Celulares.java
+ adapter.practica.ejeercicio.Empresa1Celulares
+decorator/Practica/ejercicio/BancaInternet.java
+ decorator.Practica.ejercicio.BancaInternet
+decorator/Practica/ejercicio/SeguroCuenta.java
+ decorator.Practica.ejercicio.SeguroCuenta
+decorator/Practica/ejercicio/Client.java
+ decorator.Practica.ejercicio.Client
+bridge/practica/practica/IMetodo.java
+ bridge.practica.practica.IMetodo
+bridge/practica/ejercicio/Client.java
+ bridge.practica.ejercicio.Client
+decorator/Practica/ejercicio/CuentaBasic.java
+ decorator.Practica.ejercicio.CuentaBasic
+adapter/practica/ejeercicio/Empresa1Tablets.java
+ adapter.practica.ejeercicio.Empresa1Tablets
+extra/IArtefactosElectronicos.java
+ extra.IArtefactosElectronicos
+visitor/practica/ejercicio2/Argentina.java
+ visitor.practica.ejercicio2.Argentina
+bridge/practica/practica/EmpInstalacionElectrica.java
+ bridge.practica.practica.EmpInstalacionElectrica
+extra/PC.java
+ extra.PC
+bridge/practica/ejercicio2/EmpresaSA.java
+ bridge.practica.ejercicio2.EmpresaSA
+visitor/practica/ejercicio/Notepad.java
+ visitor.practica.ejercicio.Notepad
+adapter/practica/ejeercicio/IEmpresaArtefactos2.java
+ adapter.practica.ejeercicio.IEmpresaArtefactos2
+bridge/practica/practica/IEmpresas.java
+ bridge.practica.practica.IEmpresas
+bridge/practica/ejercicio2/EnviarAire.java
+ bridge.practica.ejercicio2.EnviarAire
+decorator/Practica/practica/PersonajeConArma.java
+ decorator.Practica.practica.PersonajeConArma
+visitor/practica/ejercicio/IPlugIn.java
+ visitor.practica.ejercicio.IPlugIn
+adapter/practica/practica/IEmpresaArtefactos2.java
+ adapter.practica.practica.IEmpresaArtefactos2
+adapter/practica/ejeercicio/AdapterLavadoras.java
+ adapter.practica.ejeercicio.AdapterLavadoras
+adapter/practica/practica/IEmpresaArtefactos1.java
+ adapter.practica.practica.IEmpresaArtefactos1
+bridge/practica/ejercicio/Linux.java
+ bridge.practica.ejercicio.Linux
+bridge/practica/ejercicioNoBridge/IPlataforma.java
+ bridge.practica.ejercicioNoBridge.IPlataforma
+adapter/practica/practica/Empresa1WindowsPhone.java
+ adapter.practica.practica.Empresa1WindowsPhone
+bridge/practica/ejercicio2/Client.java
+ bridge.practica.ejercicio2.Client
+decorator/Practica/ejercicio/Cuenta.java
+ decorator.Practica.ejercicio.Cuenta
+visitor/practica/ejercicio2/IPaises.java
+ visitor.practica.ejercicio2.IPaises
+bridge/practica/ejercicio2/EnviarMar.java
+ bridge.practica.ejercicio2.EnviarMar
+decorator/Practica/practica/Decorator.java
+ decorator.Practica.practica.Decorator
+bridge/practica/practica/EmpInstalacionAlcantarillado.java
+ bridge.practica.practica.EmpInstalacionAlcantarillado
+bridge/practica/practica/PagoAplicacion.java
+ bridge.practica.practica.PagoAplicacion
+bridge/practica/practica/PagoEfectivo.java
+ bridge.practica.practica.PagoEfectivo
+bridge/practica/practica/PagoTigoMoney.java
+ bridge.practica.practica.PagoTigoMoney
+bridge/practica/practica/Client.java
+ bridge.practica.practica.Client
+proxy/practica/ejercicio/Moneda.java
+ proxy.practica.ejercicio.Moneda
+proxy/practica/ejercicio/ICuentaBanco.java
+ proxy.practica.ejercicio.ICuentaBanco
+proxy/practica/practica/Cluster.java
+ proxy.practica.practica.Cluster
+proxy/practica/ejercicio/Proxy.java
+ proxy.practica.ejercicio.Proxy
+proxy/practica/ejercicio/CuentaBanco.java
+ proxy.practica.ejercicio.CuentaBanco
+proxy/practica/ejercicio/TargetaDebito.java
+ proxy.practica.ejercicio.TargetaDebito
+proxy/practica/practica/AppWeb.java
+ proxy.practica.practica.AppWeb
+composite/practica/ejercicio/AgrupadorElectronicos.java
+ composite.practica.ejercicio.AgrupadorElectronicos
+composite/practica/practica/Documentos.java
+ composite.practica.practica.Documentos
+composite/practica/practica/AgrupadorArchivos.java
+ composite.practica.practica.AgrupadorArchivos
+composite/practica/ejercicio/ArtefactosElectronicos.java
+ composite.practica.ejercicio.ArtefactosElectronicos
+composite/practica/ejercicio/Client.java
+ composite.practica.ejercicio.Client
+composite/practica/practica/Archivo.java
+ composite.practica.practica.Archivo
+composite/practica/practica/Client.java
+ composite.practica.practica.Client
+composite/practica/ejercicio/Computadora.java
+ composite.practica.ejercicio.Computadora
